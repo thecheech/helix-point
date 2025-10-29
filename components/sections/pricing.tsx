@@ -67,7 +67,7 @@ export function PricingSection() {
               </ul>
               
               <Button className="w-full shadow-lg hover:shadow-xl transition-shadow gradient-1 border-0" size="lg" asChild>
-                <Link href="#contact">Contact Sales</Link>
+                <Link href="/contact">Contact Sales</Link>
               </Button>
 
               <p className="text-xs text-center text-muted-foreground">

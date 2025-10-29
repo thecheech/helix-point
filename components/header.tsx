@@ -21,11 +21,14 @@ export function Header() {
           <Link href="#pricing" className="transition-colors hover:text-primary">
             Pricing
           </Link>
+          <Link href="/contact" className="transition-colors hover:text-primary">
+            Contact
+          </Link>
         </nav>
 
         <div className="flex items-center space-x-4">
           <Button variant="ghost" size="sm" asChild>
-            <Link href="#contact">Contact Sales</Link>
+            <Link href="/contact">Contact Sales</Link>
           </Button>
         </div>
       </div>

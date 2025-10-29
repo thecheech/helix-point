@@ -46,7 +46,7 @@ export function HeroSection() {
             </Link>
           </Button>
           <Button size="lg" variant="outline" className="bg-white/80 backdrop-blur-sm" asChild>
-            <Link href="#contact">Contact Sales</Link>
+            <Link href="/contact">Contact Sales</Link>
           </Button>
         </div>
 
