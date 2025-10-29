@@ -216,7 +216,7 @@ export default function ClosedLoopPolicyPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">Questions</h2>
                 <p className="text-muted-foreground">
-                  For questions about HelixPoint's closed-loop system, contact us at:
+                  For questions about HelixPoint&apos;s closed-loop system, contact us at:
                 </p>
                 <div className="bg-gray-50 rounded-lg p-6 space-y-2">
                   <p className="font-semibold text-foreground">HelixPoint LLC</p>

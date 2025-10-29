@@ -23,7 +23,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">1. Agreement to Terms</h2>
                 <p className="text-muted-foreground">
-                  By accessing or using HelixPoint's services, you agree to be bound by these Terms of Service. 
+                  By accessing or using HelixPoint&apos;s services, you agree to be bound by these Terms of Service. 
                   If you disagree with any part of these terms, you may not access our services.
                 </p>
               </section>
@@ -35,7 +35,7 @@ export default function TermsPage() {
                   These credits are digital tokens that:
                 </p>
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
-                  <li>Can be used only within the issuing platform's ecosystem</li>
+                  <li>Can be used only within the issuing platform&apos;s ecosystem</li>
                   <li>Have no cash value and cannot be redeemed for money</li>
                   <li>Are non-transferable between users or platforms</li>
                   <li>Are used to access digital features, content, or services</li>
@@ -46,7 +46,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">3. Platform Integration</h2>
                 <p className="text-muted-foreground">
-                  Businesses integrating HelixPoint ("Platform Owners") agree to:
+                  Businesses integrating HelixPoint (&quot;Platform Owners&quot;) agree to:
                 </p>
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
                   <li>Clearly communicate to users what credits can be used for</li>
@@ -79,7 +79,7 @@ export default function TermsPage() {
                   <li>You confirm all payment information provided is accurate</li>
                   <li>You authorize the charge to your payment method</li>
                   <li>All sales are final once credits are applied to your account</li>
-                  <li>Prices are subject to change at the platform's discretion</li>
+                  <li>Prices are subject to change at the platform&apos;s discretion</li>
                   <li>Payment disputes should be directed to the platform owner</li>
                 </ul>
               </section>
@@ -123,13 +123,13 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">9. Limitation of Liability</h2>
                 <p className="text-muted-foreground">
-                  HelixPoint provides the platform "as is" without warranties of any kind. We are not liable for:
+                  HelixPoint provides the platform &quot;as is&quot; without warranties of any kind. We are not liable for:
                 </p>
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
-                  <li>Loss of credits due to platform owner's actions or platform closure</li>
+                  <li>Loss of credits due to platform owner&apos;s actions or platform closure</li>
                   <li>Service interruptions or technical issues</li>
                   <li>Indirect, incidental, or consequential damages</li>
-                  <li>Platform owner's policies or actions regarding credits</li>
+                  <li>Platform owner&apos;s policies or actions regarding credits</li>
                 </ul>
               </section>
 

@@ -63,9 +63,9 @@ export default function RefundPolicyPage() {
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
                   <li>Credits have been partially or fully redeemed for features or content</li>
                   <li>Change of mind after successful credit delivery</li>
-                  <li>Dissatisfaction with the platform's features or services (address with platform owner)</li>
+                  <li>Dissatisfaction with the platform&apos;s features or services (address with platform owner)</li>
                   <li>Account suspension or termination due to Terms of Service violations</li>
-                  <li>Expired credits (subject to platform's expiration policy)</li>
+                  <li>Expired credits (subject to platform&apos;s expiration policy)</li>
                   <li>Credits purchased using promotional offers or discounts</li>
                 </ul>
               </section>
@@ -127,7 +127,7 @@ export default function RefundPolicyPage() {
                   <li>Refund policies are determined by the individual platform owner</li>
                   <li>HelixPoint is not responsible for refunds related to platform closure</li>
                   <li>We recommend purchasing only the credits you plan to use in the near term</li>
-                  <li>Check the platform's terms regarding service discontinuation</li>
+                  <li>Check the platform&apos;s terms regarding service discontinuation</li>
                 </ul>
               </section>
 
@@ -177,7 +177,7 @@ export default function RefundPolicyPage() {
                     <li>Credits are non-transferable between accounts or platforms</li>
                     <li>Once credits are spent on features or content, they cannot be refunded</li>
                     <li>Promotional or bonus credits are non-refundable under all circumstances</li>
-                    <li>Check the platform's individual policies before making large purchases</li>
+                    <li>Check the platform&apos;s individual policies before making large purchases</li>
                   </ul>
                 </div>
               </section>

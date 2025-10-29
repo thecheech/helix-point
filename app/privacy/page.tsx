@@ -23,7 +23,7 @@ export default function PrivacyPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">1. Introduction</h2>
                 <p className="text-muted-foreground">
-                  HelixPoint ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy 
+                  HelixPoint (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to protecting your privacy. This Privacy Policy 
                   explains how we collect, use, disclose, and safeguard your information when you use our digital 
                   credit management platform.
                 </p>
@@ -196,7 +196,7 @@ export default function PrivacyPage() {
               </section>
 
               <section className="space-y-4">
-                <h2 className="text-2xl font-semibold">10. Children's Privacy</h2>
+                <h2 className="text-2xl font-semibold">10. Children&apos;s Privacy</h2>
                 <p className="text-muted-foreground">
                   Our services are not intended for individuals under the age of 18. We do not knowingly collect 
                   personal information from children. If you believe we have collected information from a child, 
@@ -208,7 +208,7 @@ export default function PrivacyPage() {
                 <h2 className="text-2xl font-semibold">11. Changes to This Privacy Policy</h2>
                 <p className="text-muted-foreground">
                   We may update this Privacy Policy from time to time. We will notify you of material changes by 
-                  posting the new policy on this page and updating the "Last updated" date. We encourage you to 
+                  posting the new policy on this page and updating the &quot;Last updated&quot; date. We encourage you to 
                   review this policy periodically.
                 </p>
               </section>

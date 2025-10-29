@@ -66,7 +66,7 @@ export default function AcceptableUsePage() {
                   <li>Sports betting or wagering services</li>
                   <li>Lotteries or sweepstakes with monetary prizes</li>
                   <li>Skill-based gaming with cash prizes</li>
-                  <li>Any platform where credits can be "cashed out" for money</li>
+                  <li>Any platform where credits can be &quot;cashed out&quot; for money</li>
                 </ul>
 
                 <h3 className="text-xl font-semibold mt-4">Cryptocurrency and Digital Assets</h3>
@@ -99,7 +99,7 @@ export default function AcceptableUsePage() {
                 <h3 className="text-xl font-semibold mt-4">High-Risk Businesses</h3>
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
                   <li>Multi-level marketing or pyramid schemes</li>
-                  <li>Get-rich-quick schemes or "guaranteed" investment returns</li>
+                  <li>Get-rich-quick schemes or &quot;guaranteed&quot; investment returns</li>
                   <li>Unregulated financial services</li>
                   <li>Tobacco, vaping, or cannabis products</li>
                   <li>Pharmaceuticals or prescription drugs without proper licensing</li>
@@ -122,7 +122,7 @@ export default function AcceptableUsePage() {
                   All credits issued through HelixPoint must:
                 </p>
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
-                  <li>Be used exclusively within the issuing platform's ecosystem</li>
+                  <li>Be used exclusively within the issuing platform&apos;s ecosystem</li>
                   <li>Have no cash value or monetary equivalent</li>
                   <li>Be non-transferable between users or platforms</li>
                   <li>Not be redeemable for cash, gift cards, or other monetary instruments</li>
@@ -255,7 +255,7 @@ export default function AcceptableUsePage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">13. Questions and Contact</h2>
                 <p className="text-muted-foreground">
-                  If you have questions about what is or isn't permitted under this policy, please contact us at:
+                  If you have questions about what is or isn&apos;t permitted under this policy, please contact us at:
                 </p>
                 <div className="bg-gray-50 rounded-lg p-6 space-y-2">
                   <p className="font-semibold text-foreground">HelixPoint LLC</p>

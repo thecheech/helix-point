@@ -66,7 +66,7 @@ export default function InternationalCompliancePage() {
                 <div className="bg-blue-50 border-2 border-blue-200 rounded-lg p-6">
                   <p className="text-sm text-muted-foreground">
                     <strong className="text-foreground">EU & UK:</strong> Digital services supplied to consumers 
-                    are subject to VAT at the customer's location. Use VAT MOSS (EU) or VAT OSS for simplified 
+                    are subject to VAT at the customer&apos;s location. Use VAT MOSS (EU) or VAT OSS for simplified 
                     reporting across multiple countries.
                   </p>
                 </div>
@@ -142,7 +142,7 @@ export default function InternationalCompliancePage() {
                 <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
                   <li>Display prices in local currency when possible</li>
                   <li>Clearly disclose any currency conversion fees</li>
-                  <li>Use Stripe's multi-currency features for better customer experience</li>
+                  <li>Use Stripe&apos;s multi-currency features for better customer experience</li>
                   <li>Be transparent about payment processor fees</li>
                   <li>Ensure VAT/GST is included in displayed prices where required by law</li>
                 </ul>
