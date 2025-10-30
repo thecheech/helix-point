@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
 
     if (resend) {
       const { data, error } = await resend.emails.send({
-      from: 'HelixPoint Contact Form <onboarding@resend.dev>',
+      from: 'HelixPoint <noreply@helixpoint.co>',
       to: ['hello@helixpoint.co'], // Add more email addresses as needed
       subject: `New Contact Form: ${firstName} ${lastName} from ${company}`,
       html: `
