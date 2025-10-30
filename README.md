@@ -36,6 +36,8 @@ The contact form can send emails using [Resend](https://resend.com). To enable e
    ```
 4. Restart the development server
 
+**Note**: Emails will be sent from `onboarding@resend.dev` (Resend's verified domain). To use a custom domain like `noreply@yourdomain.com`, you'll need to verify your domain in Resend's dashboard.
+
 Without the API key, form submissions will be logged to the console but emails won't be sent.
 
 ## Tech Stack
