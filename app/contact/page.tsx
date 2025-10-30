@@ -1,5 +1,7 @@
 "use client";
 
+/* eslint-disable react/no-unescaped-entities */
+
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { Section } from "@/components/section";
@@ -91,8 +93,8 @@ export default function ContactPage() {
                     </CardTitle>
                     <CardDescription>
                       {isSubmitted
-                        ? 'Thank you for your message. We&apos;ll get back to you within 24 hours.'
-                        : 'Fill out the form below and we\'ll get back to you within 24 hours.'
+                        ? <span>Thank you for your message. We'll get back to you within 24 hours.</span>
+                        : <span>Fill out the form below and we'll get back to you within 24 hours.</span>
                       }
                     </CardDescription>
                   </CardHeader>
@@ -102,7 +104,7 @@ export default function ContactPage() {
                         <CheckCircle className="h-16 w-16 text-green-500 mx-auto mb-4" />
                         <h3 className="text-lg font-semibold mb-2">Message Sent Successfully!</h3>
                         <p className="text-muted-foreground mb-4">
-                          Thank you for reaching out. We&apos;ve received your message and will respond within 24 hours.
+                          Thank you for reaching out. We've received your message and will respond within 24 hours.
                         </p>
                         <Button onClick={resetForm} variant="outline">
                           Send Another Message
